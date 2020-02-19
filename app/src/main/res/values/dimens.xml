@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_xsmall">5dp</dimen>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_medium">15dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+
+    <dimen name="user_thumbnail_size">150dp</dimen>
+
+    <dimen name="icon_small_size">15dp</dimen>
+    <dimen name="icon_medium_size">20dp</dimen>
+    <dimen name="icon_large_size">30dp</dimen>
+
+    <dimen name="text_small">11sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">28sp</dimen>
+</resources>
